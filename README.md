@@ -81,7 +81,7 @@ endmodule
 ![output](td.png)
 
 ### FULL ADDER:
-![output](td1.png)
+![output](td2.png)
 
 
 ## Result:
